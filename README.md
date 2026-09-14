@@ -7,4 +7,4 @@ Try the interactive Streamlit app live: [Streamlit Demo](https://share.streamlit
 
 ### Get the Master Template
 - **Gumroad ($15):** [Download Excel & Google Sheet Master](https://bamidele38.gumroad.com/l/xjgee)
-- **Flutterwave (₦5,000):** Direct Naira Bank Transfer available.
+
